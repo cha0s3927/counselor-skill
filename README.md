@@ -37,7 +37,7 @@ counselor/
 克隆到 Claude Code 的 skills 目录（文件夹名用 `counselor`）：
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/counselor-skill.git ~/.claude/skills/counselor
+git clone https://github.com/cha0s3927/counselor-skill.git ~/.claude/skills/counselor
 ```
 
 或手动把本仓库内容复制到 `~/.claude/skills/counselor/`，确保文件夹内直接是 `SKILL.md`。
